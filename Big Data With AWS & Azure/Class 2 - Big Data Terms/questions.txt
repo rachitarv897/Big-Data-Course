@@ -1,0 +1,43 @@
+Questions :- 
+
+
+
+How much work do we need to dedicate outside the course to get goof proficiency?Should we expect homeworks?
+
+2. In last week's class in the delhi.2x example where you said we were using oracle DB and we can add storage , that time you meant vertical scaling or horizontal scaling.
+
+
+
+3. Sir does this topic require this much of in depth explanation?? Is it important for interview ??
+
+
+
+4. Dont we use Virtual Private clouds where we reserve subnets for privacy purposes within aws/Azure/GCP?I thought this handles the security complicance?
+
+
+
+5. Let say I am decent working with one of the cloud providers. Can I easily work or learn others easily?
+
+
+
+6. Amazing teaching. I have heard OLAP and OLTP hundred times. but exact meaning understood today only.
+
+
+
+7. if we are dumping all types of data in raw format without any filtering, will not the storage cost be huge?
+
+
+
+8. two questions:1) why cant we use my sql,postgres sql or other DBs as DWH? 2) Do the data in data lake house or DWH be deleted after certain period of time?
+
+
+
+9. Why ELT is cost effective ? Is it not taking more storage cost because we are storing more irrespective of the value of data ?
+
+
+
+10. can u pl advice that can't we use sqldb for analytical work..we are only using postgresql and using the data from there for our analytics work.
+
+
+
+11. Once we define transformations, will they be permanently stored in DWH?  Or are these transformations vary based on analytics we are looking for?
