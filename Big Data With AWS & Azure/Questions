@@ -1,0 +1,40 @@
+
+
+https://www.loggly.com/wp-content/uploads/2015/05/Linux-Cheat-Sheet-Sponsored-By-Loggly.pdf
+
+https://dataschool.com/data-modeling-101/row-vs-column-oriented-databases/
+
+Questions :-
+
+1. When a data Analyst write a query to pull data to create reports comparing this year and previous year, will it query Database or Datawarehouse?
+
+2. Mayank, is this analogy about DB vs Datawarehouse vs Data Lake correct?
+
+Database - Excel file (database) with multiple Sheets (tables)
+Datawarehouse - Multiple Excel Files in a single folder (multiple databases)
+Datalake - A folder in our computer system where we can store audio, video, excel, csv etc.. any file
+
+3. Hi Mayank Good Morning, In this fast-paced era of technological advancements, how do you stay updated? 
+What resources do you rely on for learning, and what strategies do you use to adapt to new developments effectively?
+
+4. hello sir,
+consistency build kaise kre?
+class miss ho gyi h ..
+
+notes kaise bnaye?
+
+class join krte hi,, kafi sari distraction aa jati h..like phone...notifications..
+
+5. But then u said we won’t be using MR which is for parallel processing , how will we then process our data ?
+
+6. If hive queries converts into map reduce code will it slow down the processing time because it need some time to convert right
+
+
+7. aren't we wasting storage as we would require 3 times the actual file size?
+
+
+8. questioning again ,Incase you have missed sir 
+
+1. Will Hadoop decide on its own which one will be master node
+2.how these nodes are connected ?
+3.storage of each node will be called HDFS or file system of all node combined will be called HDFS
