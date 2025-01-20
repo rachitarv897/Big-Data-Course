@@ -11,14 +11,14 @@ The data covers multiple entities like **customers**, **orders**, **items**, **p
 Table of Contents
 -----------------
 
-1.  [Overview](https://chatgpt.com/#overview)
-2.  [Data Schema](https://chatgpt.com/#data-schema)
-3.  [Data Generation](https://chatgpt.com/#data-generation)
-4.  [File Structure and Sizes](https://chatgpt.com/#file-structure-and-sizes)
-5.  [Spark Block Partitioning](https://chatgpt.com/#spark-block-partitioning)
-6.  [Real-World Data Modeling](https://chatgpt.com/#real-world-data-modeling)
-7.  [How to Use](https://chatgpt.com/#how-to-use)
-8.  [Learning Goals](https://chatgpt.com/#learning-goals)
+1.  [Overview]
+2.  [Data Schema]
+3.  [Data Generation]
+4.  [File Structure and Sizes]
+5.  [Spark Block Partitioning]
+6.  [Real-World Data Modeling]
+7.  [How to Use]
+8.  [Learning Goals]
 
 * * * * *
 
