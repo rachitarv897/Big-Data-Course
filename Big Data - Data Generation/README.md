@@ -224,8 +224,8 @@ How to Use
 Learning Goals
 --------------
 
-1.  **Data Partition
+1.  **Data Partitioning in Spark**: Understand how Spark splits data into blocks/partitions based on file size. 
+2. **Spark Joins**: Practice performing joins between related tables, such as joining `orders` with `items` and `payments`. 
+3. **Scalable Data Processing**: Work with large datasets and understand how Spark handles data across a distributed system. 
+4. **Optimizing Spark Jobs**: Learn how to optimize job execution by understanding partitioning and parallel processing.
 
-ing in Spark**: Understand how Spark splits data into blocks/partitions based on file size. 2. **Spark Joins**: Practice performing joins between related tables, such as joining `orders` with `items` and `payments`. 3. **Scalable Data Processing**: Work with large datasets and understand how Spark handles data across a distributed system. 4. **Optimizing Spark Jobs**: Learn how to optimize job execution by understanding partitioning and parallel processing.
-
-This dataset serves as a perfect example for teaching Spark operations in a distributed environment.
